@@ -1,0 +1,47 @@
+html,body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin:0;
+    padding: 0;
+}
+
+.header-left {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    background-color:rgb(255, 247, 0);
+    color:coral;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+
+}
+
+main {
+    text-align: center;
+    background-color:rgb(50, 250, 117);
+    
+    padding-top: 30px;
+}
+
+.contents-item {
+    float:left;
+    text-align: center;
+    padding:70px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .section-title {
+    color: blueviolet;
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+
+  footer {
+    background-color:rgb(50, 250, 117);
+    padding-top: 39px;
+  }
