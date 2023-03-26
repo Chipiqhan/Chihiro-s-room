@@ -1,0 +1,59 @@
+html,body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin:0;
+    padding: 0;
+    
+}
+
+.header-logo {
+    font-size: 80px;
+}
+
+.footer-wrapper {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+main {
+    color: rgb(4, 123, 4);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.contents {
+    font-size: 26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+}
+
+.index {
+    text-align: left;
+    padding-top: 20px;
+    padding-left:20%;
+    padding-right: 20%;
+    font-size: 20px;
+}
+
+.index li {
+    text-decoration: underline;
+}
+
+.star-list li::before {
+    content: "★ ";
+  }
+
+  .image {
+    padding-top: 20px;
+  }
