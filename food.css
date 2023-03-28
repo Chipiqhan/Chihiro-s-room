@@ -21,8 +21,8 @@ form, input, div {
 main {
     text-align: center;
     background-color:rgb(50, 250, 117);
+    width: 100%;
     
-    padding-top: 100%;
 }
 
 .contents-item {
@@ -31,9 +31,6 @@ main {
     padding:70px;
   }
 
-  footer {
-    text-align: center;
-  }
 
   .section-title {
     color: blueviolet;
@@ -44,4 +41,12 @@ main {
   footer {
     background-color:rgb(50, 250, 117);
     padding-top: 39px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 30px;
+  }
+
+  .wrapper {
+  margin: auto;
+  width: 100%;
   }
