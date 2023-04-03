@@ -1,0 +1,45 @@
+html,body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin:0;
+    padding: 0;
+    
+}
+
+.header {
+    font-size: 500%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 20px;
+    background-color: forestgreen;
+    margin-bottom: 20px;
+}
+
+.contents {
+    
+    border: solid 1px #454545;
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.matome {
+    margin: 5% 20%;
+}
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.contents-item {
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+main {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
