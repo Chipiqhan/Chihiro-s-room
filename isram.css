@@ -1,0 +1,36 @@
+html,body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin:0;
+    padding: 0;
+    
+}
+
+.header {
+    font-size: 200%;
+    font-family:sans-serif;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    color:darkkhaki;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+main {
+    
+        
+        padding-top: 50px;
+        padding-bottom: 40px;
+        margin-left: 15%;
+        margin-right: 15%;
+}
+
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
