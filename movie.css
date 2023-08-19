@@ -1,0 +1,25 @@
+html,body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin:0;
+    padding: 0;
+    
+}
+
+main {
+    background-color:lightpink;
+
+}
+footer {
+    text-align: center;
+    padding: 4%;
+
+}
+
+.matome {
+    background-color: rgb(127, 5, 151);
+    color: aliceblue;
+    padding: 10px;
+    margin: 30px;
+}
